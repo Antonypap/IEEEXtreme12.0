@@ -1,4 +1,4 @@
-# IEEEXTREME 12.0
+# **IEEEXTREME 12.0**
 ### Team Fibbonacchos, World Rank: 440
 #### Team Members (alphabetically)
 * [Antonis Papaoikonomou](https://github.com/antonypap)
